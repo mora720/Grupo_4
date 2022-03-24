@@ -1,4 +1,4 @@
-
+// INstalar librerias desconocidas 
 #include <iostream>
 #include <stdlib.h>
 #include <time.h> //para numero random
